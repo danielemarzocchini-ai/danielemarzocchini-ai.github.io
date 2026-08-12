@@ -1,7 +1,31 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+---
 layout: splash
-author_profile: true
+permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/header-home.jpg
+  actions:
+    - label: "Vedi il blog"
+      url: "/year-archive/"
+excerpt: "Disegnare, imparando — il diario del mio percorso"
+feature_row:
+  - image_path: /assets/images/header-home.jpg
+    alt: "Portfolio"
+    title: "Portfolio"
+    excerpt: "I miei disegni, divisi per genere"
+    url: "/portfolio/"
+    btn_label: "Guarda"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/header-home.jpg
+    alt: "Blog"
+    title: "Blog"
+    excerpt: "Il diario del mio percorso"
+    url: "/year-archive/"
+    btn_label: "Leggi"
+    btn_class: "btn--primary"
+---
+
+{% include feature_row %}
 ---
