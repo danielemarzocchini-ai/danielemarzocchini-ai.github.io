@@ -13,7 +13,7 @@ Mi serviva qualcosa che potessi toccare con mano alla fine della giornata. Il di
 
 Resta questo desiderio: rappresentare la realtà con pochi tratti semplici. Disegnare dal vero, soprattutto, affina la capacità di osservare.
 
-Ogni volta che inizio, devo prima vincere una voce interiore che pretende la perfezione — altrimenti, dice, non merito riconoscimento. Prima di tutto da me stesso, ma anche dagli altri. So che è un mio problema, e sto ancora imparando a conviverci.
+Ogni volta che inizio, devo prima vincere l'idea che se un disegno non viene bene, è tempo sprecato — una specie di deformazione professionale da ingegnere, dove tutto si misura in rendimento. Sto ancora imparando a lasciare spazio anche a quello che non funziona, senza considerarlo un fallimento.
 
 Questo sito è la vetrina di quel percorso: non solo i lavori migliori, ma anche quelli peggiori. Gli studi dietro un disegno finito. La fatica di imparare qualcosa da adulto.
 
