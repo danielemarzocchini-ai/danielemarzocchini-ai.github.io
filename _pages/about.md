@@ -5,7 +5,7 @@ title: "About"
 author_profile: true
 ---
 
-Ho ricominciato a disegnare a 37 anni. Da ragazzo copiavo i fumetti che amavo, ma la mia famiglia — come tanti nella mia generazione — mi ha spinto verso qualcosa di "più concreto". C'era, e in parte c'è ancora, l'idea che senza un talento innato certe cose non si possano fare.
+Ho ricominciato a disegnare a 37 anni. Da ragazzo copiavo i fumetti che amavo, ma la societa' — come tanti nella mia generazione — mi ha spinto verso qualcosa di "più concreto". C'era, e in parte c'è ancora, l'idea che senza un talento innato certe cose non si possano fare.
 
 Per molti anni il mio lavoro mi ha lasciato una sensazione di scarso riconoscimento — il tipo di lavoro tecnico che serve, ma di cui a nessuno importa davvero fino a quando qualcosa non va storto. Dopo più di dieci anni, quella mancanza di riconoscimento, insieme ad altro, mi aveva reso sempre più frustrato.
 
