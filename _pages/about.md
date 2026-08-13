@@ -1,8 +1,20 @@
 ---
+layout: single
 permalink: /about/
 title: "About"
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Ho ricominciato a disegnare a 37 anni. Da ragazzo copiavo i fumetti che amavo, ma la mia famiglia — come tanti nella mia generazione — mi ha spinto verso qualcosa di "più concreto". C'era, e in parte c'è ancora, l'idea che senza un talento innato certe cose non si possano fare.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Per molti anni il mio lavoro mi ha lasciato una sensazione di scarso riconoscimento — il tipo di lavoro tecnico che serve, ma di cui a nessuno importa davvero fino a quando qualcosa non va storto. Dopo più di dieci anni, quella mancanza di riconoscimento, insieme ad altro, mi aveva reso sempre più frustrato.
+
+Mi serviva qualcosa che potessi toccare con mano alla fine della giornata. Il disegno è servito esattamente a questo: bastano una matita e un pezzo di carta. Un modo semplice ed economico per mettere su carta anche la frustrazione.
+
+Resta questo desiderio: rappresentare la realtà con pochi tratti semplici. Disegnare dal vero, soprattutto, affina la capacità di osservare.
+
+Ogni volta che inizio, devo prima vincere una voce interiore che pretende la perfezione — altrimenti, dice, non merito riconoscimento. Prima di tutto da me stesso, ma anche dagli altri. So che è un mio problema, e sto ancora imparando a conviverci.
+
+Questo sito è la vetrina di quel percorso: non solo i lavori migliori, ma anche quelli peggiori. Gli studi dietro un disegno finito. La fatica di imparare qualcosa da adulto.
+
+Disegno perché voglio essere bravo in qualcosa di concreto — qualcosa che mi permetta, finalmente, di rappresentare chi sono davvero.
