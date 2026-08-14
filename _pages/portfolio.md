@@ -18,7 +18,7 @@ feature_row:
     url: "/portfolio/fumetto/"
     btn_label: "Guarda"
     btn_class: "btn--primary"
-  - image_path: /assets/images/categoria-umoristiche.jpg
+  - image_path: /assets/images/umorismo.jpg
     alt: "Illustrazioni umoristiche"
     title: "Illustrazioni umoristiche"
     url: "/portfolio/umoristiche/"
