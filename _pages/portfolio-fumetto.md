@@ -1,21 +1,18 @@
 ---
-layout: single
+layout: splash
 permalink: /portfolio/fumetto/
 title: "Fumetto"
-author_profile: false
-gallery_fumetto:
-  - url: /assets/images/fumetto/The_Long_Journey_p1.jpg
-    image_path: /assets/images/fumetto/The_Long_Journey_p1.jpg
-    alt: "The Long Journey - pagina 1"
-  - url: /assets/images/fumetto/The_Long_Journey_p2.jpg
-    image_path: /assets/images/fumetto/The_Long_Journey_p2.jpg
-    alt: "The Long Journey - pagina 2"
-  - url: /assets/images/fumetto/The_Long_Journey_p3.jpg
-    image_path: /assets/images/fumetto/The_Long_Journey_p3.jpg
-    alt: "The Long Journey - pagina 3"
-  - url: /assets/images/fumetto/The_Long_Journey_p4.jpg
-    image_path: /assets/images/fumetto/The_Long_Journey_p4.jpg
-    alt: "The Long Journey - pagina 4"
+header:
+  overlay_color: "#333"
+excerpt: "Storie a fumetti, tavola dopo tavola"
+feature_row:
+  - image_path: /assets/images/fumetto/The_Long_Journey_p1.jpg
+    alt: "The Long Journey"
+    title: "The Long Journey"
+    excerpt: "4 tavole"
+    url: "/portfolio/fumetto/the-long-journey/"
+    btn_label: "Leggi"
+    btn_class: "btn--primary"
 ---
 
-{% include gallery id="gallery_fumetto" layout="half" caption="The Long Journey" %}
+{% include feature_row %}
