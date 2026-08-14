@@ -13,12 +13,13 @@ feature_row:
     url: "/portfolio/fumetto/the-long-journey/"
     btn_label: "Leggi"
     btn_class: "btn--primary"
-  - url: /assets/images/fumetto/pandemia_pic.jpg
-    image_path: /assets/images/fumetto/pandemia_pic.jpg
-    alt: "PANDEMIA"
-    title: "PANDEMIA"
+  - image_path: /assets/images/fumetto/pandemia.jpg
+    alt: "Pandemia"
+    title: "Pandemia"
     excerpt: "Tavola singola"
+    url: "/assets/images/fumetto/pandemia.jpg"
+    btn_label: "Ingrandisci"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
-
