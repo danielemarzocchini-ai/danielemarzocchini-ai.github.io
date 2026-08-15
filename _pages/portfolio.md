@@ -4,7 +4,7 @@ permalink: /portfolio/
 title: "Portfolio"
 header:
   overlay_color: "#333"
-excerpt: "I miei disegni, divisi per genere"
+excerpt: "I miei lavori, divisi per genere"
 feature_row:
   - image_path: /assets/images/categoria-dal-vero.jpg
     alt: "Disegno dal vero"
