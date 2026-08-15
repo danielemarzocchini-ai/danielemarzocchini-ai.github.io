@@ -6,7 +6,7 @@ header:
   overlay_color: "#333"
 excerpt: "Storie a fumetti, tavola dopo tavola"
 feature_row:
-  - image_path: /assets/images/fumetto/The_Long_Journey.jpg
+  - image_path: /assets/images/fumetto/The_Long_Journey_p1.jpg
     alt: "The Long Journey"
     title: "The Long Journey"
     excerpt: "4 tavole"
@@ -17,7 +17,7 @@ feature_row:
     alt: "Lockdown"
     title: "Lockdown"
     excerpt: "Tavola singola"
-    url: "/assets/images/fumetto/Pandemia_pic.jpg"
+    url: "/portfolio/fumetto/pandemia/"
     btn_label: "Leggi"
     btn_class: "btn--primary"
 ---
