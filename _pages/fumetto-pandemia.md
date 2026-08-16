@@ -4,8 +4,8 @@ permalink: /portfolio/fumetto/pandemia/
 title: "Lockdown"
 author_profile: false
 gallery_pandemia:
-  - url: /assets/images/fumetto/pandemia_pic.jpg
-    image_path: /assets/images/fumetto/pandemia_pic.jpg
+  - url: /assets/images/fumetto/Pandemia_pic.jpg
+    image_path: /assets/images/fumetto/Pandemia_pic.jpg
     alt: "Lockdown"
 ---
 
