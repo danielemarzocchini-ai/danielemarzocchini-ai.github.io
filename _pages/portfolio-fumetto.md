@@ -6,7 +6,7 @@ header:
   overlay_color: "#333"
 excerpt: "Storie a fumetti, tavola dopo tavola"
 feature_row:
-  - image_path: /assets/images/fumetto/The_Long_Journey_p1.jpg
+  - image_path: /assets/images/fumetto/The_Long_Journey.jpg
     alt: "The Long Journey"
     title: "The Long Journey"
     excerpt: "4 tavole"
