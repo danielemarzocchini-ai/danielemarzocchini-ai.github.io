@@ -4,8 +4,8 @@ permalink: /portfolio/umoristiche/
 title: "Illustrazioni umoristiche"
 author_profile: false
 gallery_umoristiche:
-  - url: /assets/images/illustrazioni/umoristico1.jpg
-    image_path: /assets/images/illustrazioni/umoristico1.jpg
+  - url: /assets/images/illustrazione/umoristico1.jpg
+    image_path: /assets/images/illustrazione/umoristico1.jpg
     alt: "tre teste a volte non ne fanno una"
 ---
 
