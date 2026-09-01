@@ -12,7 +12,7 @@ feature_row:
     url: "/portfolio/dal-vero/"
     btn_label: "Guarda"
     btn_class: "btn--primary"
-  - image_path: /assets/images/categoria-fumetto.jpg
+  - image_path: /assets/images/fumetto_img.jpg
     alt: "Fumetto"
     title: "Fumetto"
     url: "/portfolio/fumetto/"
